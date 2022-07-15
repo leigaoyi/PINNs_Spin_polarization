@@ -1,0 +1,11 @@
+matplotlib
+numpy
+scikit-learn
+scikit-optimize
+scipy
+deepxde
+pandas
+tqdm
+torchvision 
+torchaudio
+tensorflow
