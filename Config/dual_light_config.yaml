@@ -1,0 +1,11 @@
+ConfigDate: 2022-06-18
+CSVPath: './result/TrainDualResult.csv'
+
+LightIntensity: 25
+Temperature: 170
+
+NetDepth: 6
+NetWidth: 40
+ 
+TrainEpoch : 15000
+
